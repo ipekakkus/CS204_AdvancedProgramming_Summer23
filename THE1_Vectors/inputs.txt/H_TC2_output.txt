@@ -1,0 +1,126 @@
+Welcome to the colony management system
+Please enter file name for resources stock:
+Available resources loaded from stock5.txt
+Resource stock:
+Iron 500
+Copper 0
+Silicon 1000
+Please enter file name for resource consumption per building type:
+Resources consumption per building type loaded from consumption5.txt
+Resources consumption per building type:
+H 500 1 0
+S 2 0 100
+C 501 0 0
+B 1 1 1
+A 0 0 0
+E 500 0 999
+R 1 0 1001
+N 500 0 1000
+P 499 0 999
+Please enter file name for colony:
+Colony loaded from colony5.txt
+Colony:
+-    -    -    -    -    -    -    -    -
+-    -    -    -    -    -    -    -    -
+-    -    -    -    -    -    -    -    -
+-    -    -    -    -    -    -    -    -
+-    -    -    -    -    -    -    -    -
+-    -    -    -    -    -    -    -    -
+-    -    -    -    -    -    -    -    -
+-    -    -    -    -    -    -    -    -
+-    -    -    -    -    -    -    -    -
+-    -    -    -    -    -    -    -    -
+Resources stock after loading the colony:
+Resource stock:
+Iron 500
+Copper 0
+Silicon 1000
+Consumption of resource Iron by each building in the colony:
+0    0    0    0    0    0    0    0    0
+0    0    0    0    0    0    0    0    0
+0    0    0    0    0    0    0    0    0
+0    0    0    0    0    0    0    0    0
+0    0    0    0    0    0    0    0    0
+0    0    0    0    0    0    0    0    0
+0    0    0    0    0    0    0    0    0
+0    0    0    0    0    0    0    0    0
+0    0    0    0    0    0    0    0    0
+0    0    0    0    0    0    0    0    0
+Consumption of resource Copper by each building in the colony:
+0    0    0    0    0    0    0    0    0
+0    0    0    0    0    0    0    0    0
+0    0    0    0    0    0    0    0    0
+0    0    0    0    0    0    0    0    0
+0    0    0    0    0    0    0    0    0
+0    0    0    0    0    0    0    0    0
+0    0    0    0    0    0    0    0    0
+0    0    0    0    0    0    0    0    0
+0    0    0    0    0    0    0    0    0
+0    0    0    0    0    0    0    0    0
+Consumption of resource Silicon by each building in the colony:
+0    0    0    0    0    0    0    0    0
+0    0    0    0    0    0    0    0    0
+0    0    0    0    0    0    0    0    0
+0    0    0    0    0    0    0    0    0
+0    0    0    0    0    0    0    0    0
+0    0    0    0    0    0    0    0    0
+0    0    0    0    0    0    0    0    0
+0    0    0    0    0    0    0    0    0
+0    0    0    0    0    0    0    0    0
+0    0    0    0    0    0    0    0    0
+Please enter an option number:
+1. Construct a new building on the colony.
+2. Destruct/Disassemble a building from the colony.
+3. Print the colony.
+4. Print the consumption of all resources by each building in the colony.
+5. Print the consumption of a specific resource by each building in the colony.
+6. Print the resources stock.
+7. Exit the program.
+Colony:
+-    -    -    -    -    -    -    -    -
+-    -    -    -    -    -    -    -    -
+-    -    -    -    -    -    -    -    -
+-    -    -    -    -    -    -    -    -
+-    -    -    -    -    -    -    -    -
+-    -    -    -    -    -    -    -    -
+-    -    -    -    -    -    -    -    -
+-    -    -    -    -    -    -    -    -
+-    -    -    -    -    -    -    -    -
+-    -    -    -    -    -    -    -    -
+Please enter an option number:
+Consumption of resource Iron by each building in the colony:
+0    0    0    0    0    0    0    0    0
+0    0    0    0    0    0    0    0    0
+0    0    0    0    0    0    0    0    0
+0    0    0    0    0    0    0    0    0
+0    0    0    0    0    0    0    0    0
+0    0    0    0    0    0    0    0    0
+0    0    0    0    0    0    0    0    0
+0    0    0    0    0    0    0    0    0
+0    0    0    0    0    0    0    0    0
+0    0    0    0    0    0    0    0    0
+Consumption of resource Copper by each building in the colony:
+0    0    0    0    0    0    0    0    0
+0    0    0    0    0    0    0    0    0
+0    0    0    0    0    0    0    0    0
+0    0    0    0    0    0    0    0    0
+0    0    0    0    0    0    0    0    0
+0    0    0    0    0    0    0    0    0
+0    0    0    0    0    0    0    0    0
+0    0    0    0    0    0    0    0    0
+0    0    0    0    0    0    0    0    0
+0    0    0    0    0    0    0    0    0
+Consumption of resource Silicon by each building in the colony:
+0    0    0    0    0    0    0    0    0
+0    0    0    0    0    0    0    0    0
+0    0    0    0    0    0    0    0    0
+0    0    0    0    0    0    0    0    0
+0    0    0    0    0    0    0    0    0
+0    0    0    0    0    0    0    0    0
+0    0    0    0    0    0    0    0    0
+0    0    0    0    0    0    0    0    0
+0    0    0    0    0    0    0    0    0
+0    0    0    0    0    0    0    0    0
+Please enter an option number:
+Thank you for using the colony management system. The program will terminate.
+Goodbye!

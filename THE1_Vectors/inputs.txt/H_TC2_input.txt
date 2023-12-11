@@ -1,0 +1,6 @@
+stock5.txt
+consumption5.txt 
+colony5.txt
+3
+4
+7

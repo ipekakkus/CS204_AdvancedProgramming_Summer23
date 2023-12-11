@@ -1,0 +1,11 @@
+stock1.txt
+consumption1.txt
+colony1.txt
+2
+0 6
+0 0
+0 2
+3
+4
+6
+7

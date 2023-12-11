@@ -1,0 +1,74 @@
+Welcome to the colony management system
+Please enter file name for resources stock:
+Available resources loaded from stock1.txt
+Resource stock:
+O2 900
+H2O 894
+Food 1001
+Please enter file name for resource consumption per building type:
+Resources consumption per building type loaded from consumption1.txt
+Resources consumption per building type:
+H 20 40 25
+S 4 5 112
+U 8 5 3
+Please enter file name for colony:
+Colony loaded from colony1.txt
+Colony:
+-    -    H    S    S
+-    -    H    -    S
+-    U    U    -    S
+Resources stock after loading the colony:
+Resource stock:
+O2 828
+H2O 784
+Food 497
+Consumption of resource O2 by each building in the colony:
+0    0    20   4    4
+0    0    20   0    4
+0    8    8    0    4
+Consumption of resource H2O by each building in the colony:
+0    0    40   5    5
+0    0    40   0    5
+0    5    5    0    5
+Consumption of resource Food by each building in the colony:
+0    0    25   112  112
+0    0    25   0    112
+0    3    3    0    112
+Please enter an option number:
+1. Construct a new building on the colony.
+2. Destruct/Disassemble a building from the colony.
+3. Print the colony.
+4. Print the consumption of all resources by each building in the colony.
+5. Print the consumption of a specific resource by each building in the colony.
+6. Print the resources stock.
+7. Exit the program.
+Please enter the row and the column index of the cell that you want to remove:
+Invalid row or column index, please enter a valid row and column index:
+The cell is already empty, please enter the row and the column index of another cell:
+The building is removed, and the corresponding resources are added back to the stock.
+Please enter an option number:
+Colony:
+-    -    -    S    S
+-    -    H    -    S
+-    U    U    -    S
+Please enter an option number:
+Consumption of resource O2 by each building in the colony:
+0    0    0    4    4
+0    0    20   0    4
+0    8    8    0    4
+Consumption of resource H2O by each building in the colony:
+0    0    0    5    5
+0    0    40   0    5
+0    5    5    0    5
+Consumption of resource Food by each building in the colony:
+0    0    0    112  112
+0    0    25   0    112
+0    3    3    0    112
+Please enter an option number:
+Resource stock:
+O2 848
+H2O 824
+Food 522
+Please enter an option number:
+Thank you for using the colony management system. The program will terminate.
+Goodbye!

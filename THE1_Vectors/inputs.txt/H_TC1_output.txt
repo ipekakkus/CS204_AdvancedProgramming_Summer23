@@ -1,0 +1,232 @@
+Welcome to the colony management system
+Please enter file name for resources stock:
+Available resources loaded from stock5.txt
+Resource stock:
+Iron 500
+Copper 0
+Silicon 1000
+Please enter file name for resource consumption per building type:
+Resources consumption per building type loaded from consumption5.txt
+Resources consumption per building type:
+H 500 1 0
+S 2 0 100
+C 501 0 0
+B 1 1 1
+A 0 0 0
+E 500 0 999
+R 1 0 1001
+N 500 0 1000
+P 499 0 999
+Please enter file name for colony:
+Colony loaded from colony5.txt
+Colony:
+-    -    -    -    -    -    -    -    -
+-    -    -    -    -    -    -    -    -
+-    -    -    -    -    -    -    -    -
+-    -    -    -    -    -    -    -    -
+-    -    -    -    -    -    -    -    -
+-    -    -    -    -    -    -    -    -
+-    -    -    -    -    -    -    -    -
+-    -    -    -    -    -    -    -    -
+-    -    -    -    -    -    -    -    -
+-    -    -    -    -    -    -    -    -
+Resources stock after loading the colony:
+Resource stock:
+Iron 500
+Copper 0
+Silicon 1000
+Consumption of resource Iron by each building in the colony:
+0    0    0    0    0    0    0    0    0
+0    0    0    0    0    0    0    0    0
+0    0    0    0    0    0    0    0    0
+0    0    0    0    0    0    0    0    0
+0    0    0    0    0    0    0    0    0
+0    0    0    0    0    0    0    0    0
+0    0    0    0    0    0    0    0    0
+0    0    0    0    0    0    0    0    0
+0    0    0    0    0    0    0    0    0
+0    0    0    0    0    0    0    0    0
+Consumption of resource Copper by each building in the colony:
+0    0    0    0    0    0    0    0    0
+0    0    0    0    0    0    0    0    0
+0    0    0    0    0    0    0    0    0
+0    0    0    0    0    0    0    0    0
+0    0    0    0    0    0    0    0    0
+0    0    0    0    0    0    0    0    0
+0    0    0    0    0    0    0    0    0
+0    0    0    0    0    0    0    0    0
+0    0    0    0    0    0    0    0    0
+0    0    0    0    0    0    0    0    0
+Consumption of resource Silicon by each building in the colony:
+0    0    0    0    0    0    0    0    0
+0    0    0    0    0    0    0    0    0
+0    0    0    0    0    0    0    0    0
+0    0    0    0    0    0    0    0    0
+0    0    0    0    0    0    0    0    0
+0    0    0    0    0    0    0    0    0
+0    0    0    0    0    0    0    0    0
+0    0    0    0    0    0    0    0    0
+0    0    0    0    0    0    0    0    0
+0    0    0    0    0    0    0    0    0
+Please enter an option number:
+1. Construct a new building on the colony.
+2. Destruct/Disassemble a building from the colony.
+3. Print the colony.
+4. Print the consumption of all resources by each building in the colony.
+5. Print the consumption of a specific resource by each building in the colony.
+6. Print the resources stock.
+7. Exit the program.
+Resource stock:
+Iron 500
+Copper 0
+Silicon 1000
+Please enter an option number:
+Please enter the type of the building that you want to construct:
+Invalid building type, please enter a valid building type:
+Please enter the number of cells that the building will occupy:
+Invalid number of cells, please enter a valid number of cells:
+Please enter the row and the column index of the cell number 1:
+Please enter the row and the column index of the cell number 2:
+Please enter the row and the column index of the cell number 3:
+Please enter the row and the column index of the cell number 4:
+Please enter the row and the column index of the cell number 5:
+Please enter the row and the column index of the cell number 6:
+Please enter the row and the column index of the cell number 7:
+Please enter the row and the column index of the cell number 8:
+Please enter the row and the column index of the cell number 9:
+Please enter the row and the column index of the cell number 10:
+Please enter the row and the column index of the cell number 11:
+Please enter the row and the column index of the cell number 12:
+Please enter the row and the column index of the cell number 13:
+Please enter the row and the column index of the cell number 14:
+Please enter the row and the column index of the cell number 15:
+Please enter the row and the column index of the cell number 16:
+Please enter the row and the column index of the cell number 17:
+Please enter the row and the column index of the cell number 18:
+Please enter the row and the column index of the cell number 19:
+Please enter the row and the column index of the cell number 20:
+Please enter the row and the column index of the cell number 21:
+Please enter the row and the column index of the cell number 22:
+Please enter the row and the column index of the cell number 23:
+Please enter the row and the column index of the cell number 24:
+Please enter the row and the column index of the cell number 25:
+Please enter the row and the column index of the cell number 26:
+Please enter the row and the column index of the cell number 27:
+Please enter the row and the column index of the cell number 28:
+Please enter the row and the column index of the cell number 29:
+Please enter the row and the column index of the cell number 30:
+Please enter the row and the column index of the cell number 31:
+Please enter the row and the column index of the cell number 32:
+Please enter the row and the column index of the cell number 33:
+Please enter the row and the column index of the cell number 34:
+Please enter the row and the column index of the cell number 35:
+Please enter the row and the column index of the cell number 36:
+Please enter the row and the column index of the cell number 37:
+Please enter the row and the column index of the cell number 38:
+Please enter the row and the column index of the cell number 39:
+Please enter the row and the column index of the cell number 40:
+Please enter the row and the column index of the cell number 41:
+Please enter the row and the column index of the cell number 42:
+Please enter the row and the column index of the cell number 43:
+Please enter the row and the column index of the cell number 44:
+Please enter the row and the column index of the cell number 45:
+Please enter the row and the column index of the cell number 46:
+Please enter the row and the column index of the cell number 47:
+Please enter the row and the column index of the cell number 48:
+Please enter the row and the column index of the cell number 49:
+Please enter the row and the column index of the cell number 50:
+Please enter the row and the column index of the cell number 51:
+Please enter the row and the column index of the cell number 52:
+Please enter the row and the column index of the cell number 53:
+Please enter the row and the column index of the cell number 54:
+Please enter the row and the column index of the cell number 55:
+Please enter the row and the column index of the cell number 56:
+Please enter the row and the column index of the cell number 57:
+Please enter the row and the column index of the cell number 58:
+Please enter the row and the column index of the cell number 59:
+Please enter the row and the column index of the cell number 60:
+Please enter the row and the column index of the cell number 61:
+Please enter the row and the column index of the cell number 62:
+Please enter the row and the column index of the cell number 63:
+Please enter the row and the column index of the cell number 64:
+Please enter the row and the column index of the cell number 65:
+Please enter the row and the column index of the cell number 66:
+Please enter the row and the column index of the cell number 67:
+Please enter the row and the column index of the cell number 68:
+Please enter the row and the column index of the cell number 69:
+Please enter the row and the column index of the cell number 70:
+Please enter the row and the column index of the cell number 71:
+Please enter the row and the column index of the cell number 72:
+Please enter the row and the column index of the cell number 73:
+Please enter the row and the column index of the cell number 74:
+Please enter the row and the column index of the cell number 75:
+Please enter the row and the column index of the cell number 76:
+Please enter the row and the column index of the cell number 77:
+Please enter the row and the column index of the cell number 78:
+Please enter the row and the column index of the cell number 79:
+Please enter the row and the column index of the cell number 80:
+Please enter the row and the column index of the cell number 81:
+Please enter the row and the column index of the cell number 82:
+Please enter the row and the column index of the cell number 83:
+Please enter the row and the column index of the cell number 84:
+Please enter the row and the column index of the cell number 85:
+Please enter the row and the column index of the cell number 86:
+Please enter the row and the column index of the cell number 87:
+Please enter the row and the column index of the cell number 88:
+Please enter the row and the column index of the cell number 89:
+Please enter the row and the column index of the cell number 90:
+The building is added to the colony.
+Please enter an option number:
+Colony:
+A    A    A    A    A    A    A    A    A
+A    A    A    A    A    A    A    A    A
+A    A    A    A    A    A    A    A    A
+A    A    A    A    A    A    A    A    A
+A    A    A    A    A    A    A    A    A
+A    A    A    A    A    A    A    A    A
+A    A    A    A    A    A    A    A    A
+A    A    A    A    A    A    A    A    A
+A    A    A    A    A    A    A    A    A
+A    A    A    A    A    A    A    A    A
+Please enter an option number:
+Consumption of resource Iron by each building in the colony:
+0    0    0    0    0    0    0    0    0
+0    0    0    0    0    0    0    0    0
+0    0    0    0    0    0    0    0    0
+0    0    0    0    0    0    0    0    0
+0    0    0    0    0    0    0    0    0
+0    0    0    0    0    0    0    0    0
+0    0    0    0    0    0    0    0    0
+0    0    0    0    0    0    0    0    0
+0    0    0    0    0    0    0    0    0
+0    0    0    0    0    0    0    0    0
+Consumption of resource Copper by each building in the colony:
+0    0    0    0    0    0    0    0    0
+0    0    0    0    0    0    0    0    0
+0    0    0    0    0    0    0    0    0
+0    0    0    0    0    0    0    0    0
+0    0    0    0    0    0    0    0    0
+0    0    0    0    0    0    0    0    0
+0    0    0    0    0    0    0    0    0
+0    0    0    0    0    0    0    0    0
+0    0    0    0    0    0    0    0    0
+0    0    0    0    0    0    0    0    0
+Consumption of resource Silicon by each building in the colony:
+0    0    0    0    0    0    0    0    0
+0    0    0    0    0    0    0    0    0
+0    0    0    0    0    0    0    0    0
+0    0    0    0    0    0    0    0    0
+0    0    0    0    0    0    0    0    0
+0    0    0    0    0    0    0    0    0
+0    0    0    0    0    0    0    0    0
+0    0    0    0    0    0    0    0    0
+0    0    0    0    0    0    0    0    0
+0    0    0    0    0    0    0    0    0
+Please enter an option number:
+Resource stock:
+Iron 500
+Copper 0
+Silicon 1000
+Please enter an option number:
+Thank you for using the colony management system. The program will terminate.
+Goodbye!
